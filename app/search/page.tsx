@@ -188,6 +188,7 @@ export default function SearchPage() {
                                 setEditTitle("")
                               }
                             }}
+                            placeholder="Enter chat title"
                             className="w-full p-4 rounded-xl bg-sidebar-accent text-sm focus:outline-none focus:ring-1 focus:ring-primary"
                             autoFocus
                           />

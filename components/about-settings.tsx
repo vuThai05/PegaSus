@@ -1,6 +1,6 @@
 "use client"
 
-import { PegasusLogo } from "../pegasus-logo"
+import { PegasusLogo } from "@/components/pegasus-logo"
 import { GraduationCap, BookOpen, FileQuestion, Upload } from "lucide-react"
 
 const features = [

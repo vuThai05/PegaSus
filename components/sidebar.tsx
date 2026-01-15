@@ -153,6 +153,8 @@ export function Sidebar() {
                         }
                       }}
                       className="w-full px-3 py-2 rounded-lg bg-sidebar-accent text-sm focus:outline-none focus:ring-1 focus:ring-primary"
+                      placeholder="Enter chat title"
+                      aria-label="Chat title"
                       autoFocus
                     />
                   ) : (
