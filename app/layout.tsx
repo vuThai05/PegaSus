@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   title: "PegaSus - AI Study Assistant",
   description: "Your intelligent AI-powered learning companion for students",
     generator: 'v0.app'
+  
 }
 
 export default function RootLayout({
