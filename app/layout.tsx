@@ -11,13 +11,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "PegaSus - AI Study Assistant",
   icons: {
-    icon: [
-      {
-        url: "/favicon-16x16.png",
-        sizes: "16x16",
-        type: "image/png",
-      },
-    ],
+    icon: "/icon.svg",
   },
   description: "Your intelligent AI-powered learning companion for students",
     generator: 'v0.app'
