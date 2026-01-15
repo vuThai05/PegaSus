@@ -10,7 +10,7 @@ export function PegasusLogo({ className, size = 32 }: PegasusLogoProps) {
       height={size}
       viewBox="0 0 32 32"
       fill="none"
-      xmlns="https://www.w3.org/2000/svg"
+      xmlns="https://static.wixstatic.com/shapes/667c85_161ea40c4a3a4f36b1d6e6bf4baf8d64.svg"
       className={className}
     >
       <path d="M16 2L4 8v16l12 6 12-6V8L16 2z" fill="currentColor" className="text-primary" />
