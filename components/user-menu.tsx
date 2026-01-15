@@ -25,8 +25,8 @@ export function UserMenu() {
       <DropdownMenuContent align="end" className="w-56">
         <DropdownMenuLabel className="font-normal">
           <div className="flex flex-col space-y-1">
-            <p className="text-sm font-medium">John Doe</p>
-            <p className="text-xs text-muted-foreground">john.doe@university.edu</p>
+            <p className="text-sm font-medium">Nguyen Tien Son</p>
+            <p className="text-xs text-muted-foreground">sonnguyen@st.neu.edu.vn</p>
           </div>
         </DropdownMenuLabel>
         <DropdownMenuSeparator />

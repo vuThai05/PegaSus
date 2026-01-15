@@ -58,7 +58,7 @@ export function DataManagementSettings() {
       <div className="space-y-4 pt-4 border-t border-border">
         <div className="flex items-center gap-2 text-destructive">
           <AlertTriangle className="h-5 w-5" />
-          <h4 className="font-medium">Delete Chat Data</h4>
+          <h4 className="font-medium">Delete All Chat</h4>
         </div>
         <p className="text-sm text-muted-foreground">
           Permanently delete your conversation history. This action cannot be undone.
